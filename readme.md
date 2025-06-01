@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ## hello, welcome to Git
  this is coming from adrian
-=======
 ## yo wassup, i am cooler dev here
 really doing shit right now haha !
->>>>>>> main
 modifying through the 'branch' testing_branching
